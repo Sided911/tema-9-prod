@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tema 9 prod\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\tema 9 prod\\tema-9-prod\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\tema 9 prod\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\tema 9 prod\\tema-9-prod\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\KAB35-15\\.nuget\\packages\\",
-      "outputPath": "D:\\tema 9 prod\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\tema 9 prod\\tema-9-prod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KAB35-15\\AppData\\Roaming\\NuGet\\NuGet.Config",
